@@ -1,8 +1,11 @@
+import { useState } from 'react';
+import axios from 'axios';
+
 export default function Cadastro()
-{
-    return(
-<div>
-    <h1>Cadastro de Alunos</h1>
-</div>
+{    
+    return (
+        <div>            
+            
+        </div>
     );
 }
